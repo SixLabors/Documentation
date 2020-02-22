@@ -1,0 +1,12 @@
+[submodule "src/ImageSharp.Drawing"]
+	path = src/ImageSharp.Drawing
+	url = https://github.com/SixLabors/ImageSharp.Drawing
+[submodule "src/ImageSharp.Web"]
+	path = src/ImageSharp.Web
+	url = https://github.com/SixLabors/ImageSharp.Web
+[submodule "src/ImageSharp"]
+	path = src/ImageSharp
+	url = https://github.com/SixLabors/ImageSharp
+[submodule "src/Fonts"]
+	path = src/Fonts
+	url = https://github.com/SixLabors/Fonts
